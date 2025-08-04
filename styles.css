@@ -31,9 +31,15 @@ h1 {
 img {
     width: 33.33vw; 
     max-width: 400px; 
-    min-width: 75%;
     height: auto;  
     border-radius: 8px; 
+}
+
+.exhibit{
+    background-color:rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 10px; 
+    box-sizing: border-box;
 }
 
 /*
